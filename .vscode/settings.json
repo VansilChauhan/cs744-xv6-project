@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "proc.h": "c",
+        "spinlock.h": "c",
+        "user.h": "c",
+        "defs.h": "c",
+        "memlayout.h": "c",
+        "param.h": "c",
+        "date.h": "c",
+        "x86.h": "c",
+        "types.h": "c",
+        "mmu.h": "c",
+        "stat.h": "c",
+        "assert.h": "c",
+        "string.h": "c",
+        "fs.h": "c"
+    }
+}
